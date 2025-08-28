@@ -16,16 +16,12 @@ Favorites Counter: The header displays the current number of favorites
 Error Handling: Proper error handling for API requests
 
 Component Functions
+
 App.js: Main component that manages API calls and state
-
 Header.js: Displays the app title and favorites count
-
 SearchBar.js: Controlled input component for search terms
-
 Gallery.js: Renders a grid of ImageCard components
-
 ImageCard.js: Displays individual images with favorite functionality
-
 FavoritesContext.js: Manages global favorites state and operations
 
 🛠️ Tech Stack
